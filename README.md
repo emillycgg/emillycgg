@@ -2,7 +2,7 @@
 
 ### Estatísticas do meu Perfil
 
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)](https://github.com/emillycgg)
+[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)](https://github.com/[emillycgg](https://github.com/emillycgg)
 
 ### Linguagens Mais Usadas
 
