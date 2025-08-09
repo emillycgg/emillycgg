@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu Perfil GitHub 👋
 
-Sou a Emilly, atualmente migrando para a área de programação e em constante aprendizado.
+Sou a Emilly, e atualmente estou migrando para a área da programação e em constante aprendizado.
 
 ---
 
