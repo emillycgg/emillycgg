@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu Perfil GitHub 👋
+# Olá! 👋
 
 Sou a Emilly, e atualmente estou migrando para a área da programação e em constante aprendizado.
 
