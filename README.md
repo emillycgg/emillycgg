@@ -11,7 +11,3 @@ Sou a Emilly, e atualmente estou migrando para a área da programação e em con
 * **Ferramentas:** Discord, Git, GitHub, powershell, VS Code.
 
 ---
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=emillycgg&layout=compact&theme=dracula)](https://github.com/emillycgg)
-
----
